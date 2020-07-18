@@ -1,8 +1,4 @@
-# React Google Books Search
-A new React-based Google Books Search app.
-
-## Deployment
-[Demo]()
+# Google Books Search
 
 ### Overview
 
