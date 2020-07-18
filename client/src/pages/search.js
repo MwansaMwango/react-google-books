@@ -34,7 +34,7 @@ class Books extends Component {
       link: book.volumeInfo.infoLink
     }
     console.log(savedBook);
-   
+    alert("Book Saved");
     dbAPI.saveBook(savedBook).then(res => console.log(res));
   };
 

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Google Books Search",
+  "homepage" : "https://github.com/MwansaMwango/react-google-books",
   "proxy": {
     "target": "http://localhost:3001/",
     "secure": false
