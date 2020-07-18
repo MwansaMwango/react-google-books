@@ -9,7 +9,7 @@ const Schema = mongoose.Schema;
    link: String
  })
 
- const Book = mongoose.model("googleBook", bookSchema);
+ const Book = mongoose.model("Book", bookSchema);
 
  module.exports = Book;
 
