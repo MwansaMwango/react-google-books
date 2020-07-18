@@ -63,8 +63,8 @@ class Books extends Component {
 
       <div className="container">
         <Jumbotron>
-          <h1>(React) Google Books Search</h1>
-          <h3> Search for and Save Books of Interest</h3>
+          <h1>Book Googler</h1>
+          <h3> Search and Save Books of Interest</h3>
         </Jumbotron>
         <div className="input-group mb-3">
           <Input

@@ -5,12 +5,12 @@ function Nav() {
 
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-      Google Books  
+      Book Googler  
       <a className="navbar-brand" href="/">
-        Search
+          Search
       </a>
       <a className="navbar-brand" href="/saved">
-        Saved
+          Saved
       </a>
     </nav>
   )
